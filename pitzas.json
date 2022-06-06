@@ -1,0 +1,17 @@
+[
+    {
+        "tipo": "hawaiana",
+        "forma": "redonda",
+        "costo": 50
+    },
+    {
+        "tipo": "5 carnes",
+        "forma": "cuadrada",
+        "costo": 170
+    },
+    {
+        "tipo": "Jamon y queso",
+        "forma": "triangular",
+        "costo": 123
+    }
+]
